@@ -1,5 +1,5 @@
 # 🪼 Danielle Gorte
-**`Desenvolvedora Back End`**
+**`Desenvolvedora Back End`** | **`Estágiaria em TI`**
 
 Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursando Análise e Desenvolvimento de Sistemas pela Universidade Metodista. Tenho experiência com Java, MySQL e boas práticas de desenvolvimento, além de conhecimentos em HTML e CSS. Busco criar soluções eficientes, com código limpo e escalável, sempre em constante aprendizado
 

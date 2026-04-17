@@ -1,7 +1,12 @@
-# 🪼 Danielle Gorte
-**`Desenvolvedora Back End`** | **`Estágiaria em TI`**
+#  🧜🏻‍♀️Danielle Gorte
+**`Desenvolvedora Back End`** | **`Estágiaria de T.I`**
 
+<em>
 Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursando Análise e Desenvolvimento de Sistemas pela Universidade Metodista. Tenho experiência com Java, MySQL e boas práticas de desenvolvimento, além de conhecimentos em HTML e CSS. Busco criar soluções eficientes, com código limpo e escalável, sempre em constante aprendizado
+</em>
+
+**IDIOMAS**: Inglês Avançado C1 | Francês Básico A2
+
 
 <p align="left">
     <a href="https://github.com/daniellegorte?tab=followers">
@@ -18,8 +23,12 @@ Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursa
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-9fc5e8?style=for-the-badge&logo=linkedinwhite&logoColor=white&color=265c9e"
         />
     </a>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellegorte&hide=html&layout=compact&theme=default" />
+  </a>
 </p>
+
 
 ---
 
@@ -76,3 +85,9 @@ Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursa
 <br/>
 
 ---
+
+
+
+### ⭐ Estátisticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellegorte&show_icons=true)
+

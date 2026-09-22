@@ -1,5 +1,5 @@
 #  🧜🏻‍♀️Danielle Gorte
-**`Desenvolvedora Back End`** | **`Estágiaria de T.I`**
+**|`Analista de Suporte`| `Desenvolvedora Back End`** | **`Estágiaria de T.I`** 
 
 <em>
 Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursando Análise e Desenvolvimento de Sistemas pela Universidade Metodista. Tenho experiência com Java, MySQL e boas práticas de desenvolvimento, além de conhecimentos em HTML e CSS. Busco criar soluções eficientes, com código limpo e escalável, sempre em constante aprendizado
@@ -51,32 +51,32 @@ Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursa
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="MYSQL"
+    title="MYSQL" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <img 
     align="left" 
-    alt="JAVA"
-    title="JAVA" 
+    alt="GIT"
+    title="GIT" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="GITHUB"
+    title="GITHUB" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />

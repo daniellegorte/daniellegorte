@@ -84,10 +84,4 @@ Desenvolvedora de software em formação, com foco em Back-End e Sistemas, cursa
 <br/>
 <br/>
 
----
-
-
-
-### ⭐ Estátisticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellegorte&show_icons=true)
 
